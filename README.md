@@ -8,8 +8,11 @@
 ABOUT ME:
 
 • 🎓 3rd Year IT Student @NIET.
+
 • 👀 I’m interested in Web Development
+
 • 🌱 I’m currently learning 'CSS' "and" 'DSA'
+
 • 📫 How to reach me 0016sajan@gmail.com
 
 <!---
