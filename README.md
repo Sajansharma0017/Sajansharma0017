@@ -5,7 +5,7 @@
  
   
 
-ABOUT ME:
+About Me:-
 
 • 🎓 3rd Year IT Student @NIET.
 
