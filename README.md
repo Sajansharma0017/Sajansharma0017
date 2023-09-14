@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sajansharma0017
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning 'python' "and" 'Java'
-- 💞️ I’m looking to collaborate with Microsoft
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning 'CSS' "and" 'DSA'
+- 💞️ I’m looking to collaborate with a webdevelper
 - 📫 How to reach me 0016sajan@gmail.com
 
 <!---
