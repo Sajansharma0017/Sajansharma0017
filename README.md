@@ -5,7 +5,8 @@
  
   
 
-About Me:-
+![image](https://github.com/Sajansharma0017/Sajansharma0017/assets/95874687/5f9acb88-93ae-4445-b174-cd2c43753723)
+
 
 • 🎓 3rd Year IT Student @NIET.
 
