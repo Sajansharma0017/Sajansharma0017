@@ -2,22 +2,6 @@
 
 ![image](https://github.com/Sajansharma0017/Sajansharma0017/assets/95874687/ee92a9a8-357c-4e8b-8147-38d13ad39153)
 
-
-
-
-
-
-
- 
-  
- 
-  
-
-
-
-
-
-![anime](https://github.com/Sajansharma0017/Sajansharma0017/assets/95874687/d853161e-b11f-43e2-a5eb-84dd44879a23)
 ## About Me
 • 🎓 3rd Year IT Student @NIET.
 
