@@ -17,7 +17,8 @@
 
 
 
-https://camo.githubusercontent.com/380420d0f2b5c8144041c0a8dd5cf921bbe709b3b0b577bb1f8bc3ad6cfe376b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f725063714a457853614f6341414141692f6d656e686572612d63686962692e676966## About Me
+![anime](https://github.com/Sajansharma0017/Sajansharma0017/assets/95874687/d853161e-b11f-43e2-a5eb-84dd44879a23)
+## About Me
 • 🎓 3rd Year IT Student @NIET.
 
 • 👀 I’m interested in Web Development
