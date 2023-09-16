@@ -7,7 +7,7 @@
 
 • 👀 I’m interested in Web Development
 
-• 🌱 I’m currently learning 'CSS' "and" 'DSA'
+• 🌱 I’m currently learning 'DSA' "and" 'Development'
 
 • 📫 How to reach me 0016sajan@gmail.com
 
