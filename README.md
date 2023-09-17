@@ -34,10 +34,10 @@ You can click the Preview link to take a look at your changes.
 ## <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=krsatyam7&show_icons=true&theme=tokyonight&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=Sajansharma0017&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=krsatyam7&theme=tokyonight&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajansharma0017&theme=tokyonight&hide_border=true"/>
     </a>
 </div>
 
