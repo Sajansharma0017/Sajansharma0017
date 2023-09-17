@@ -1,6 +1,6 @@
-## <img height="50"![image](https://github.com/Sajansharma0017/Sajansharma0017/assets/95874687/ee92a9a8-357c-4e8b-8147-38d13ad39153)
+## ![image](https://github.com/Sajansharma0017/Sajansharma0017/assets/95874687/ee92a9a8-357c-4e8b-8147-38d13ad39153)
 
-## About Me
+## <img height="50"About Me
 • 🎓 3rd Year IT Student at @NIET.
 
 • 👀 I’m interested in Web Development
