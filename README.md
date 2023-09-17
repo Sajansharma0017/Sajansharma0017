@@ -1,6 +1,6 @@
 ## ![image](https://github.com/Sajansharma0017/Sajansharma0017/assets/95874687/ee92a9a8-357c-4e8b-8147-38d13ad39153)
 
-# <img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/> ##About ME:-
+ <img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/> ##About ME:-
 • 🎓 3rd Year IT Student at @NIET.
 
 • 👀 I’m interested in Web Development
