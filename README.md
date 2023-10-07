@@ -11,7 +11,7 @@
 
 • 👀 I’m interested in Web Development
 
-• 🌱 I’m currently learning 'DSA' "and" 'Development'
+• 🌱 I’m currently learning 'DSA' "and" 'Web-Development'
 
 • 📫 How to reach me 0016sajan@gmail.com
 
