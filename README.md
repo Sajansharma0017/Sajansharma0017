@@ -58,5 +58,5 @@ You can click the Preview link to take a look at your changes.
 <img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sajansharma0017" alt="Sajansharma0017" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="r0hin999" /> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="Sajansharma0017" /> 
 </div>
