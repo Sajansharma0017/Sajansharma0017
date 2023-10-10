@@ -19,12 +19,13 @@
 
 ## <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/> Get in Touch
 <p align="center"> 
-<a href = "https://www.linkedin.com/in/sajan-sharma-081790218"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajan-sharma-081790218" /> &nbsp; &nbsp; 
-<a href = "https://github.com/Sajansharma0017"> <img src = "https://img.shields.io/badge/-Sajansharma0017-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/Sajansharma0017/" /> &nbsp; &nbsp; 
-<a href = "https://twitter.com"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com" /> &nbsp; &nbsp; 
-<a href = "mailto:0211ite165@niet.co.in"> <img src = "https://img.shields.io/badge/0211ite165@niet.co.in-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:0211ite165@niet.co.in" > &nbsp; &nbsp; 
+<a href = "https://www.linkedin.com/in/sajan-sharma-081790218"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajan-sharma-081790218" /> &nbsp; &nbsp; </a>
+<a href = "https://github.com/Sajansharma0017"> <img src = "https://img.shields.io/badge/-Sajansharma0017-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/Sajansharma0017/" /> &nbsp; &nbsp; </a>
+<a href = "https://twitter.com"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com" /> &nbsp; &nbsp; </a>
+<a href = "mailto:0211ite165@niet.co.in"> <img src = "https://img.shields.io/badge/0211ite165@niet.co.in-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:0211ite165@niet.co.in" > &nbsp; &nbsp; </a>
 </p>
-  ## <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="Sajansharma0017" /> 
+  
+## <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="Sajansharma0017" /> 
 ## <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
