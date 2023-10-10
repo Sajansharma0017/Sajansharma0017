@@ -15,10 +15,7 @@
 
 • 📫 How to reach me 0016sajan@gmail.com
 
-<!---
-Sajansharma0017/Sajansharma0017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ![Sajansharma0017](https://komarev.com/ghpvc/?username=Sajansharma0017)
 
 
