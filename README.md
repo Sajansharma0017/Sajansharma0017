@@ -29,10 +29,7 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://github.com/Sajansharma0017"> <img src = "https://img.shields.io/badge/-Sajansharma0017-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/Sajansharma0017/" /> &nbsp; &nbsp; 
 <a href = "https://twitter.com"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com" /> &nbsp; &nbsp; 
 <a href = "mailto:0211ite165@niet.co.in"> <img src = "https://img.shields.io/badge/0211ite165@niet.co.in-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:0211ite165@niet.co.in" > &nbsp; &nbsp; 
-
 </p>
-
-<br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="Sajansharma0017" /> 
 </div>
 ## <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats
