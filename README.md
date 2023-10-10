@@ -16,8 +16,6 @@
 • 📫 How to reach me 0016sajan@gmail.com
 
 
-![Sajansharma0017](https://komarev.com/ghpvc/?username=Sajansharma0017)
-
 
 ## <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/> Get in Touch
 
