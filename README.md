@@ -30,7 +30,7 @@
 
 
 
-## <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats
+## ![[image]<img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/>] Github Stats
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=Sajansharma0017&show_icons=true&theme=tokyonight&hide_border=true"/>
