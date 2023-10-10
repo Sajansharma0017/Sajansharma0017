@@ -29,8 +29,6 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Sajansharma0017"/> 
 
-
-
 <p align="center"><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/></p> <h3>Github Stats<h3>
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
@@ -45,10 +43,7 @@
 
 <p align="center"> <img src = "https://metrics.lecoq.io/Sajansharma0017?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta" />
 </p>  
-
-
 </details>
-
 <br>
 
 
