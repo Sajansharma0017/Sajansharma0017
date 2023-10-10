@@ -49,9 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <img src = "https://metrics.lecoq.io/Sajansharma0017?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta" />
 </p>  
-<h3>🐱‍🐉 Holopin Badges</h3>
 
-[![An image of @sajansharma17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajansharma17)](https://holopin.io/@sajansharma17)
 
 </details>
 
@@ -62,4 +60,7 @@ You can click the Preview link to take a look at your changes.
 <img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sajansharma0017" alt="Sajansharma0017" /> </p>
+<h3>🐱‍🐉 Holopin Badges</h3>
+
+[![An image of @sajansharma17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajansharma17)](https://holopin.io/@sajansharma17)
 
