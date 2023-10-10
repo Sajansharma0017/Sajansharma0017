@@ -17,7 +17,7 @@
 
 
 
-##<img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/>Get in Touch
+<img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/><h3>Get in Touch<h3>
 <p align="center"> 
 <a href = "https://www.linkedin.com/in/sajan-sharma-081790218"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajan-sharma-081790218" /> &nbsp; &nbsp; </a>
 <a href = "https://github.com/Sajansharma0017"> <img src = "https://img.shields.io/badge/-Sajansharma0017-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/Sajansharma0017/" /> &nbsp; &nbsp; </a>
