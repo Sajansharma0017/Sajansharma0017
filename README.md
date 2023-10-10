@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    <span>     Hey! I'm <a rel="nofollow noopener noreferrer" target="_blank" href="https://sajansharma0017.github.io/SajanSharma-Portfolio/"><b>Sajan</b></a>.
+    Hey! I'm <a rel="nofollow noopener noreferrer" target="_blank" href="https://sajansharma0017.github.io/SajanSharma-Portfolio/"><b>Sajan</b></a>.
     </span>
     <br>
 
