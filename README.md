@@ -5,7 +5,8 @@
   </span>
   <br>
 
-<img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/><h3>About ME:-<h3>
+<img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/>
+<h3>About ME:-<h3>
 
 • 🎓 3rd Year IT Student at @NIET.
 
