@@ -43,6 +43,8 @@
 </details>
 <br>
 
+![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)
+
 
 <p align="center">
 <img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
