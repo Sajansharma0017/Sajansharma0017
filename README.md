@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sajan-sharma-081790218" target="_blank">Sajan Sharma </a>
+<h1 align="center" >Hi, I'm <a href="https://sajansharma0017.github.io/SajanSharma-Portfolio/" target="_blank">Sajan Sharma </a>
 <img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/>
 <h3>About ME:-<h3>
 
