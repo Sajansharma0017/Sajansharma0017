@@ -43,8 +43,6 @@
 </details>
 <br>
 
-![snake svg](https://github.com/Sajansharma0017/Sajansharma0017/blob/main/github-contribution-grid-snake.svg)
-
 
 <p align="center">
 <img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
@@ -53,4 +51,8 @@
 <h3>🐱‍🐉 Holopin Badges</h3>
 
 [![An image of @sajansharma17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajansharma17)](https://holopin.io/@sajansharma17)
+
+<!--Snake-->
+![snake svg](https://github.com/Sajansharma0017/Sajansharma0017/blob/main/github-contribution-grid-snake.svg)
+
 
