@@ -43,7 +43,7 @@
 </details>
 <br>
 
-![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Sajansharma0017/Sajansharma0017/blob/main/github-contribution-grid-snake.svg)
 
 
 <p align="center">
