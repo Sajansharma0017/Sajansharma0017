@@ -1,9 +1,5 @@
-<p align="center">
-  <br>
-  <span>
-    Hey! I'm <a rel="nofollow noopener noreferrer" target="_blank" href="https://sajansharma0017.github.io/SajanSharma-Portfolio/"><b>Sajan</b></a>.
-  </span>
-  <br>
+
+
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank">Sajan Sharma </a>
 <img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/>
 <h3>About ME:-<h3>
