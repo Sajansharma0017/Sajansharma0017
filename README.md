@@ -10,7 +10,7 @@
 
 • 📫 How to reach me 0016sajan@gmail.com
 
-<h2 align="centre" ><Get in Touch<h3>
+<h2 align="centre" ></h2>Get in Touch>
   <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/>
 <p align="center"> 
 <a href = "https://www.linkedin.com/in/sajan-sharma-081790218"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajan-sharma-081790218" /> &nbsp; &nbsp; </a>
