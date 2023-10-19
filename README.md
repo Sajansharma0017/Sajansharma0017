@@ -10,6 +10,7 @@
 
 • 📫 How to reach me 0016sajan@gmail.com
 
+
 <a align="centre" >Get in Touch </a>
   <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/>
 <p align="center"> 
@@ -23,7 +24,8 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Sajansharma0017"/> 
 
-<img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> <h3>Github Stats<h3>
+ <h3>Github Stats<h3>
+   <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/>
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=Sajansharma0017&show_icons=true&theme=tokyonight&hide_border=true"/>
