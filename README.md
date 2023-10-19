@@ -3,8 +3,11 @@
   
 <h3>About ME:-<h3>
 • 🎓 3rd Year IT Student at @NIET.
+
 • 👀 I’m interested in Web Development
+
 • 🌱 I’m currently learning 'DSA' "and" 'Web-Development'
+
 • 📫 How to reach me 0016sajan@gmail.com
 
 <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/><h3>Get in Touch<h3>
