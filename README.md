@@ -8,7 +8,7 @@
 
 • 🌱 I’m currently learning 'DSA' "and" 'Web-Development'
 
-• 📫 How to reach me 0016sajan@gmail.com
+• 📫 How to reach me "Don't"
 
 
 <a align="centre" >Get in Touch </a>
