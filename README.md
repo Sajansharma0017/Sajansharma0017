@@ -2,7 +2,7 @@
 <img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/>
   
 <h2>About ME:-<h2>
-• 🎓 3rd Year IT Student at @NIET.
+• 🎓 4th Year IT Student at @NIET.
 
 • 👀 I’m interested in Web Development
 
