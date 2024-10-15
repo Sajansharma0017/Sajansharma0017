@@ -8,10 +8,13 @@
 
 • 🌱 I’m currently learning 'DSA' "and" 'Web-Development'
 
-• 📫 How to reach me "Don't"
+• 📫 How to reach me "Don't".
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Socials ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<a align="centre" >Get in Touch </a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="25" height="25" /> Socials:
   <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/>
 <p align="center"> 
 <a href = "https://www.linkedin.com/in/sajan-sharma-081790218"> <img src = "https://img.shields.io/badge/-Sajansharma0017-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajan-sharma-081790218" /> &nbsp; &nbsp; </a>
