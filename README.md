@@ -54,4 +54,12 @@
 <!--Snake-->
 ![snake svg](https://github.com/Sajansharma0017/Sajansharma0017/blob/main/github-contribution-grid-snake.svg)
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Thanks & Dev Quote -------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Thanks for stopping by! 🙌 If you found something useful or enjoyed exploring my work, feel free to reach out or contribute to my projects.
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
