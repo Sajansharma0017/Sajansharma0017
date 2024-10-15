@@ -1,7 +1,7 @@
 <h1 align="center" ><a href="https://sajansharma0017.github.io/Portfolio-Sajan-Sharma-main/" target="_blank">Hi, I'm Sajan Sharma </a>
 <img height="50" src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif"/>
   
-<h2>About ME:-<h2>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
 • 🎓 4th Year IT Student at @NIET.
 
 • 👀 I’m interested in Web Development
